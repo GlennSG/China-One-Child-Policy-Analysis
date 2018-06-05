@@ -4,11 +4,11 @@
 
 This project aims to analyze the impact of the one child policy on China's population growth between 1979 and 2016. The analysis further explores the policy's impact on China's real GDP per capita and population gender equity (male vs. female population sizes). 
 
-## TL;DR
+## TL;DR:
 
 The analysis proves that the one child policy had an impact on China's population growth by comparing population growth before and after the policy was introduced in 1979. The policy was found to have a statistically significant negative impact on the population growth in China using a two sample t-test. A similar conclusion was found regarding the policy's impact on China's female population as a percentage of the total population.
 
-The analysis could not conclude a direct relationship between the one child policy and China's real GDP per capita. The reason was that there are many different factors that impact real GDP per capita, so a statistically significant difference cannot be drawn on China's real GDP per capita, before and after the policy was introduced. However, the graphs show an interesting coincidence with China's real GDP per capita dramtically increasing shortly after 1979, around the same time period the one child policy was introduced. 
+The analysis could not conclude a direct relationship between the one child policy and China's real GDP per capita. The reason was that there are many different factors that impact real GDP per capita, so a statistically significant difference cannot be drawn on China's real GDP per capita, before and after the policy was introduced. However, the graphs show an interesting coincidence with China's real GDP per capita dramatically increasing shortly after 1979, around the same time period the one child policy was introduced. 
 
 ## Detailed Project Analysis & Data Files:
 
