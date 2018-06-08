@@ -8,9 +8,9 @@ This project aims to analyze the impact of the one child policy on China's popul
 
 The analysis proves that the one child policy had an impact on China's population growth by comparing population growth before and after the policy was introduced in 1979. The policy was found to have a statistically significant negative impact on the population growth in China using a two sample t-test. 
 
-The analysis found that China's real GDP per capita dramatically increased shortly after 1979, around the same time period the one child policy was introduced. The t-test further supports this positive impact as being statistically significant.
+The analysis found that China's real GDP per capita dramatically increased shortly after 1979, and the t-test further supports the policy's positive impact on real GDP per capita as being statistically significant.
 
-The t-test failed when applied to the female population analysis. However, since the t-test is not directional, the analysis was able to conclude that the one child policy had a negative impact on the female population in China using the data visuals.
+The t-test failed when applied to China's female population analysis. However, since the t-test is not directional, the analysis was able to conclude that the one child policy had a negative impact on the female population in China using the data visuals.
 
 ## Detailed Project Analysis & Data Files:
 
